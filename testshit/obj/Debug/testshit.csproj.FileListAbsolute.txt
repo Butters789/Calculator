@@ -1,0 +1,6 @@
+c:\users\su14rickard\documents\visual studio 2013\Projects\testshit\testshit\bin\Debug\testshit.exe.config
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\testshit\testshit\bin\Debug\testshit.exe
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\testshit\testshit\bin\Debug\testshit.pdb
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\testshit\testshit\obj\Debug\testshit.csprojResolveAssemblyReference.cache
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\testshit\testshit\obj\Debug\testshit.exe
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\testshit\testshit\obj\Debug\testshit.pdb
